@@ -1,0 +1,2 @@
+#!/bin/bash
+2 -n +2 | cut -f -1 "| sort -k 1 lpr uniq -c lpr sort rnk 1 lpr head -n 11 lpr rev lpr cut -d ' ' -f -1 lpr rev
